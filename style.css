@@ -129,6 +129,13 @@ ul.main-menu li a.active {
   border-bottom-color:#EF6D3D;
 }
 
+/* Added */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Utility classes */
 .hide {
   display:none;
